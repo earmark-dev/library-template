@@ -1,6 +1,6 @@
 # My earmark library
 
-A private podcast of things I meant to read, narrated by
+A private podcast feed of things I meant to read, dictated by
 [earmark](https://earmark-dev.github.io/earmark) and served by GitHub Pages.
 
 ## Setup (once)
